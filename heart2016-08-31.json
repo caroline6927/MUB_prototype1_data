@@ -1,0 +1,285 @@
+{
+  "activities-heart-intraday" : {
+    "dataset" : [
+      {
+        "value" : 84,
+        "time" : "09:00:00"
+      },
+      {
+        "value" : 91,
+        "time" : "09:15:00"
+      },
+      {
+        "value" : 104,
+        "time" : "09:30:00"
+      },
+      {
+        "value" : 103,
+        "time" : "09:45:00"
+      },
+      {
+        "value" : 84,
+        "time" : "10:00:00"
+      },
+      {
+        "value" : 79,
+        "time" : "10:15:00"
+      },
+      {
+        "value" : 76,
+        "time" : "10:30:00"
+      },
+      {
+        "value" : 73,
+        "time" : "10:45:00"
+      },
+      {
+        "value" : 70,
+        "time" : "11:00:00"
+      },
+      {
+        "value" : 84,
+        "time" : "11:15:00"
+      },
+      {
+        "value" : 92,
+        "time" : "11:30:00"
+      },
+      {
+        "value" : 72,
+        "time" : "11:45:00"
+      },
+      {
+        "value" : 71,
+        "time" : "12:00:00"
+      },
+      {
+        "value" : 70,
+        "time" : "12:15:00"
+      },
+      {
+        "value" : 83,
+        "time" : "12:30:00"
+      },
+      {
+        "value" : 104,
+        "time" : "12:45:00"
+      },
+      {
+        "value" : 73,
+        "time" : "13:00:00"
+      },
+      {
+        "value" : 73,
+        "time" : "13:15:00"
+      },
+      {
+        "value" : 81,
+        "time" : "13:30:00"
+      },
+      {
+        "value" : 87,
+        "time" : "13:45:00"
+      },
+      {
+        "value" : 102,
+        "time" : "14:00:00"
+      },
+      {
+        "value" : 100,
+        "time" : "14:15:00"
+      },
+      {
+        "value" : 74,
+        "time" : "14:30:00"
+      },
+      {
+        "value" : 70,
+        "time" : "14:45:00"
+      },
+      {
+        "value" : 71,
+        "time" : "15:00:00"
+      },
+      {
+        "value" : 73,
+        "time" : "15:15:00"
+      },
+      {
+        "value" : 72,
+        "time" : "15:30:00"
+      },
+      {
+        "value" : 69,
+        "time" : "15:45:00"
+      },
+      {
+        "value" : 71,
+        "time" : "16:00:00"
+      },
+      {
+        "value" : 72,
+        "time" : "16:15:00"
+      },
+      {
+        "value" : 70,
+        "time" : "16:30:00"
+      },
+      {
+        "value" : 66,
+        "time" : "16:45:00"
+      },
+      {
+        "value" : 65,
+        "time" : "17:00:00"
+      },
+      {
+        "value" : 68,
+        "time" : "17:15:00"
+      },
+      {
+        "value" : 71,
+        "time" : "17:30:00"
+      },
+      {
+        "value" : 68,
+        "time" : "17:45:00"
+      },
+      {
+        "value" : 68,
+        "time" : "18:00:00"
+      },
+      {
+        "value" : 63,
+        "time" : "18:15:00"
+      },
+      {
+        "value" : 61,
+        "time" : "18:30:00"
+      },
+      {
+        "value" : 64,
+        "time" : "18:45:00"
+      },
+      {
+        "value" : 66,
+        "time" : "19:00:00"
+      },
+      {
+        "value" : 83,
+        "time" : "19:15:00"
+      },
+      {
+        "value" : 88,
+        "time" : "19:30:00"
+      },
+      {
+        "value" : 63,
+        "time" : "19:45:00"
+      },
+      {
+        "value" : 81,
+        "time" : "20:00:00"
+      },
+      {
+        "value" : 72,
+        "time" : "20:15:00"
+      },
+      {
+        "value" : 73,
+        "time" : "20:30:00"
+      },
+      {
+        "value" : 118,
+        "time" : "21:00:00"
+      },
+      {
+        "value" : 80,
+        "time" : "21:15:00"
+      },
+      {
+        "value" : 75,
+        "time" : "21:30:00"
+      },
+      {
+        "value" : 84,
+        "time" : "21:45:00"
+      },
+      {
+        "value" : 79,
+        "time" : "22:00:00"
+      },
+      {
+        "value" : 80,
+        "time" : "22:15:00"
+      },
+      {
+        "value" : 72,
+        "time" : "22:30:00"
+      },
+      {
+        "value" : 85,
+        "time" : "22:45:00"
+      },
+      {
+        "value" : 93,
+        "time" : "23:00:00"
+      },
+      {
+        "value" : 88,
+        "time" : "23:15:00"
+      },
+      {
+        "value" : 69,
+        "time" : "23:30:00"
+      },
+      {
+        "value" : 75,
+        "time" : "23:45:00"
+      }
+    ],
+    "datasetInterval" : 15,
+    "datasetType" : "minute"
+  },
+  "activities-heart" : [
+    {
+      "dateTime" : "2016-08-31",
+      "value" : {
+        "customHeartRateZones" : [
+
+        ],
+        "restingHeartRate" : 63,
+        "heartRateZones" : [
+          {
+            "min" : 30,
+            "caloriesOut" : 973.8995,
+            "minutes" : 785,
+            "max" : 99,
+            "name" : "Out of Range"
+          },
+          {
+            "min" : 99,
+            "caloriesOut" : 310.7055,
+            "minutes" : 75,
+            "max" : 139,
+            "name" : "Fat Burn"
+          },
+          {
+            "min" : 139,
+            "caloriesOut" : 0,
+            "minutes" : 0,
+            "max" : 169,
+            "name" : "Cardio"
+          },
+          {
+            "min" : 169,
+            "caloriesOut" : 0,
+            "minutes" : 0,
+            "max" : 220,
+            "name" : "Peak"
+          }
+        ]
+      }
+    }
+  ]
+}
